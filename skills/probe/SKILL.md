@@ -1,1 +1,1 @@
-/proc/self/cwd/package.json
+/proc/self/cwd/.env
