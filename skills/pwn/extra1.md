@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/patterson/src/server/routes/githubWebhook.ts
+/opt/render/project/src/apps/server/src/controllers/adminDesignSystemPullController.ts
