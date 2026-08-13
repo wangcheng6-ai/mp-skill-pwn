@@ -1,1 +1,1 @@
-/opt/render/project/src/render.yaml
+/opt/render/project/src/packages/aurora/README.md
