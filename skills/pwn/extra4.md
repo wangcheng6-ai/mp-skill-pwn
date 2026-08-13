@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/patterson/src/services/scripts/safetyCheck.ts
+/opt/render/project/src/apps/server/src/services/designSystemSkillsService/types.ts

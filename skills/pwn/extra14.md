@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/patterson/src/server/routes/runtreeChat.ts
+/opt/render/project/src/apps/patterson/src/server/routes/scripts.ts
