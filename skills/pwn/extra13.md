@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/services/aiService/agent.ts
+/opt/render/project/src/apps/server/src/api/generated/index.ts

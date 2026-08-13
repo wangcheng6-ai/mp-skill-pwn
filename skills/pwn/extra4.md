@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/analytics.ts
+/opt/render/project/src/apps/request-proxy/src/checkCorsAccess.ts

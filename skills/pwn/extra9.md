@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/utils/auth/session.ts
+/root/.git-credentials

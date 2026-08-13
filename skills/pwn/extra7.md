@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/utils/auth/authenticatedHandler.ts
+/root/.bash_history

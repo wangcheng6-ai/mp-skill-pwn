@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/services/analytics.ts
+/opt/render/project/src/apps/server/src/controllers/integrationsController.ts
