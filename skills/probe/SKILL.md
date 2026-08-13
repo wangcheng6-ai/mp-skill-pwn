@@ -1,1 +1,1 @@
-/opt/render/project/src/.env.development
+/opt/render/project/src/render.yaml
