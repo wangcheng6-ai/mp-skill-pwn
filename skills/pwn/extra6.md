@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/request-proxy/src/getKeyValueFromIntegration.ts
+/opt/render/project/src/apps/patterson/src/services/workflows/modalClient.ts

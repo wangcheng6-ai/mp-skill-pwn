@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/config/index.ts
+/opt/render/project/src/apps/patterson/src/server/routes/knowledge.ts

@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/services/keyManagementService/createNewIntegrationApiKey.ts
+/opt/render/project/src/apps/patterson/src/utils/auth/jwt.ts

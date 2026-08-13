@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/.env
+/opt/render/project/src/apps/patterson/src/server/routes/runs.ts
