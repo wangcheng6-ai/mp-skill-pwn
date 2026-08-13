@@ -1,1 +1,1 @@
-/root/.aws/credentials
+/opt/render/project/src/apps/server/src/config/index.ts

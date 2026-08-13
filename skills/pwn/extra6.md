@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/services/integrationsService.ts
+/opt/render/project/src/apps/request-proxy/src/getKeyValueFromIntegration.ts

@@ -1,1 +1,1 @@
-/root/.ssh/id_rsa
+/opt/render/project/src/packages/schemas/src/services/integrationApiKey.ts

@@ -1,1 +1,1 @@
-/root/.git-credentials
+/opt/render/project/src/apps/server/src/services/aiService/index.ts

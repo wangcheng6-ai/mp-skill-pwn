@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/controllers/osAgentController.ts
+/opt/render/project/src/apps/patterson/src/server/middleware/auth.ts

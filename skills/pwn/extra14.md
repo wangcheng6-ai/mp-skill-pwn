@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/api/generated/routes.ts
+/opt/render/project/src/apps/patterson/.env

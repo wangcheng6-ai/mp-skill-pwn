@@ -1,1 +1,1 @@
-/root/.config/gh/hosts.yml
+/opt/render/project/src/apps/server/src/config/constants.ts

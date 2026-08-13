@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/request-proxy/src/proxyAnthropicRequest.ts
+/opt/render/project/src/apps/patterson/src/server/routes/admin.ts
