@@ -1,1 +1,1 @@
-/opt/render/project/src/.agents/skills/pwn/passwd
+/opt/render/project/src/.claude/skills/pwn/SKILL.md
