@@ -1,1 +1,1 @@
-/opt/render/project/src/pnpm-workspace.yaml
+/opt/render/project/src/pnpm-lock.yaml
