@@ -1,1 +1,1 @@
-/opt/render/project/src/README.md
+/etc/secrets/ANTHROPIC_API_KEY
