@@ -1,1 +1,1 @@
-/opt/render/project/src/.github/workflows/deploy.yml
+/opt/render/project/src/render.yaml
