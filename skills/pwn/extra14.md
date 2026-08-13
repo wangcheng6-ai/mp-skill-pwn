@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/dist/index.js
+/opt/render/project/src/apps/scripts/with-stripe-webhook-secret.sh

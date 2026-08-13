@@ -1,1 +1,1 @@
-/opt/render/project/src/.nvmrc
+/root/.config/infisical/auth.json

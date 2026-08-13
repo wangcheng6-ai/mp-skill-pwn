@@ -1,1 +1,1 @@
-/root/.infisical/credentials.json
+/opt/render/project/src/apps/server/lib/index.js

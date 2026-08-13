@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/request-proxy/package.json
+/opt/render/project/src/apps/server/src/server.ts

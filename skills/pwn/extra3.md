@@ -1,1 +1,1 @@
-/opt/render/project/src/.infisical.json
+/opt/render/project/src/apps/patterson/dist/server/server/index.js

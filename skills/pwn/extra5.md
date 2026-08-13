@@ -1,1 +1,1 @@
-/root/.infisical.json
+/opt/render/project/src/apps/server/.infisical.json

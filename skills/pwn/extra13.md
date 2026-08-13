@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/index.ts
+/opt/render/project/src/apps/scripts/dev-osagent.sh

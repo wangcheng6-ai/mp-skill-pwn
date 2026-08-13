@@ -1,1 +1,1 @@
-/root/.yarnrc.yml
+/root/.infisical/auth.json
