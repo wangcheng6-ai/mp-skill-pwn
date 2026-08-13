@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/services/emailService/sendOtpEmail.ts
+/opt/render/project/src/apps/server/src/services/githubService/index.ts

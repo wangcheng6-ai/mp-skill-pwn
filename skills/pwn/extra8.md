@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/models/magicLink.model.ts
+/opt/render/project/src/apps/server/src/clients/github.ts

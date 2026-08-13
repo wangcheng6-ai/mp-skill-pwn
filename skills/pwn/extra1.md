@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/services/magicLinkService/authenticateMagicLink.ts
+/opt/render/project/src/apps/server/src/services/chatService/agent/tools/RunGithubTool.ts

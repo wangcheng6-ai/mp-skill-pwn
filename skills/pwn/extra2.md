@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/services/magicLinkService/createMagicLink.ts
+/opt/render/project/src/apps/server/src/services/chatService/agent/tools/RunConnectorTool.ts

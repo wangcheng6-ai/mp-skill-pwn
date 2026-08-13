@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/models/index.ts
+/opt/render/project/src/apps/server/src/clients/githubClient.ts
