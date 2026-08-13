@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/services/webhooks/service.ts
+/opt/render/project/src/slack-agent/package.json

@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/services/designsService/index.ts
+/opt/render/project/src/apps/server/src/services/editorAccessService.ts

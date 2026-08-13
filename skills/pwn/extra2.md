@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/api/generated.ts
+/opt/render/project/src/apps/server/.env.example

@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/api/generated/index.ts
+/opt/render/project/src/jobs/trigger.config.ts

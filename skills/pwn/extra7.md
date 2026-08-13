@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/controllers/chatPatternAdminController.ts
+/opt/render/project/src/apps/scripts/check-infisical.sh

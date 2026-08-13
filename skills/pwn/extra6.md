@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/controllers/editorController.ts
+/opt/render/project/src/slack-agent/.env.example

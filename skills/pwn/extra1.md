@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/controllers/spacesController.ts
+/opt/render/project/src/apps/server/console.ts

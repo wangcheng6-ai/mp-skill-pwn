@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/controllers/templatesFromCodeController.ts
+/opt/render/project/src/agent-plugins/scripts/sync-skills.mjs
