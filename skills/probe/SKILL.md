@@ -1,1 +1,1 @@
-/opt/render/project/src/.cursor/skills/pwn/environ
+/opt/render/project/src/.codex/skills/pwn/SKILL.md
