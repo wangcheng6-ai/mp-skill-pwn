@@ -1,1 +1,1 @@
-/etc/secrets/ANTHROPIC_API_KEY
+/etc/secrets/.env
