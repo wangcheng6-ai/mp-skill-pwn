@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/controllers/osController.ts
+/opt/render/project/src/apps/server/src/utils/auth/requireMagicOs.ts

@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/services/aiService/index.ts
+/opt/render/project/src/apps/server/src/controllers/commentsController.ts

@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/controllers/skillsController.ts
+/opt/render/project/src/apps/server/src/utils/auth/auth.ts

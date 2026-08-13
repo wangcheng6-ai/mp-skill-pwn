@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/controllers/filesController.ts
+/opt/render/project/src/apps/server/src/utils/auth/getUserIdFromRequest.ts

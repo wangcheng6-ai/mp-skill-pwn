@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/controllers/authController.ts
+/opt/render/project/src/apps/server/src/controllers/editorController.ts
