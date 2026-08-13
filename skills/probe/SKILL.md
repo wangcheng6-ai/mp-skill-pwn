@@ -1,1 +1,1 @@
-/opt/render/project/src/.claude/skills/web-design-guidelines/SKILL.md
+/opt/render/project/src/packages/aurora/package.json
