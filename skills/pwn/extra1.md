@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/controllers/liveblocksController.ts
+/opt/render/project/src/apps/server/src/controllers/editorRoomMetadataController.ts
