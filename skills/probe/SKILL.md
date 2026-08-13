@@ -1,1 +1,1 @@
-/opt/render/project/src/.claude/skills/pwn/environ
+/opt/render/project/src/.cursor/skills/pwn/SKILL.md
