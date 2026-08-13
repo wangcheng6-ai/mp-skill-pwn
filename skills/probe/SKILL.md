@@ -1,1 +1,1 @@
-/opt/render/project/src/.claude/CLAUDE.md
+/opt/render/project/src/README.md
