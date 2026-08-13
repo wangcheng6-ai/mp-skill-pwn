@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/request-proxy/render.yaml
+/opt/render/project/src/apps/server/src/services/sandboxService/sandboxProject.ts
