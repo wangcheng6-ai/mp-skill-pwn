@@ -1,1 +1,1 @@
-/opt/render/project/src/packages/api/.env
+/opt/render/project/src/server/.env
