@@ -1,1 +1,1 @@
-/opt/render/project/src/.env.production
+/opt/render/project/src/.env.local
