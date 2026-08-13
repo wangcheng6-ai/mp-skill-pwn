@@ -1,1 +1,0 @@
-/opt/render/project/src/apps/server/src/services/chatService/agent/harness/index.ts

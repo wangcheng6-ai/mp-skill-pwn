@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/services/chatService/agent/harness/harnessRegistry.ts
+/opt/render/project/src/apps/server/src/services/chatService/agent/harness/AgentHarness.ts
