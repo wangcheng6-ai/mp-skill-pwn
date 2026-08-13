@@ -1,1 +1,1 @@
-/etc/secrets/ANTHROPIC_API_KEY
+/opt/render/project/src/render.yaml

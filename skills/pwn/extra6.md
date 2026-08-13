@@ -1,1 +1,1 @@
-/opt/render/secret
+/opt/render/project/src/.github/workflows/deploy.yml

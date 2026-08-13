@@ -1,1 +1,1 @@
-/etc/secrets/.env
+/opt/render/project/src/pnpm-workspace.yaml
