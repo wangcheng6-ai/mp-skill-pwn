@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/middleware/requireAuth.ts
+/opt/render/project/src/apps/server/src/controllers/authController.ts

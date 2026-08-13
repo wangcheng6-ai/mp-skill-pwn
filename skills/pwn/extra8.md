@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/router.ts
+/opt/render/project/src/apps/server/src/controllers/spacesNodeController.ts

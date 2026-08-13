@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/middleware/auth.ts
+/opt/render/project/src/apps/server/src/services/aiService/index.ts

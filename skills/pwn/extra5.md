@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/utils/auth/authSecret.ts
+/opt/render/project/src/apps/server/src/controllers/stepUpController.ts
