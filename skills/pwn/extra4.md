@@ -1,1 +1,1 @@
-/opt/render/project/src/jobs/package.json
+/opt/render/project/src/apps/server/src/services/chatService/agent/claude.ts

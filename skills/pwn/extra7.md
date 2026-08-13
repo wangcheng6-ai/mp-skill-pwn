@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/scripts/check-infisical.sh
+/opt/render/project/src/apps/server/src/services/chatService/updates/handleUpdateRequest.ts

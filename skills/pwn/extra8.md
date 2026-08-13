@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/scripts/dev-osagent.sh
+/opt/render/project/src/apps/server/src/services/chatService/index.ts

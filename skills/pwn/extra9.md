@@ -1,1 +1,1 @@
-/opt/render/project/src/agent-plugins/scripts/sync-skills.mjs
+/opt/render/project/src/apps/server/src/services/chatService/agent/prompt.ts
