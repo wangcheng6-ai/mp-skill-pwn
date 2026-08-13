@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/services/osAgent/agentRunner.ts
+/opt/render/project/src/apps/server/src/api/generated/index.ts

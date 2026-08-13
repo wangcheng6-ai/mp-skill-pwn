@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/services/osService/resolveOsIdForFeed.ts
+/opt/render/project/src/apps/server/src/controllers/editorController.ts
