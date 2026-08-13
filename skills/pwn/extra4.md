@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/middleware/authMiddleware.ts
+/opt/render/project/src/apps/server/src/analytics.ts

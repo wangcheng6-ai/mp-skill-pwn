@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/utils/auth/getUserIdFromRequest.ts
+/opt/render/project/src/apps/server/src/utils/auth/analytics.ts

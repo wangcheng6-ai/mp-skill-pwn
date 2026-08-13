@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/utils/auth/requireMagicOs.ts
+/opt/render/project/src/apps/server/src/utils/analytics.ts

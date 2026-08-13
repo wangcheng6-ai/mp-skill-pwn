@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/utils/auth/auth.ts
+/opt/render/project/src/apps/server/src/utils/auth/requireAuth.ts
