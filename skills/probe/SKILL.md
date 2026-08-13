@@ -1,1 +1,1 @@
-/opt/render/project/src/packages/api/package.json
+/opt/render/project/src/packages/server/package.json
