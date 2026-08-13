@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/services/chatService/index.ts
+/opt/render/project/src/apps/server/src/models/magicLink.model.ts
