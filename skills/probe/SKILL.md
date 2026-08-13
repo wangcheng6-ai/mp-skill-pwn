@@ -1,1 +1,1 @@
-/proc/self/cwd/.env
+/opt/render/project/src/package.json
