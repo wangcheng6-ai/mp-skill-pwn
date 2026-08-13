@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/patterson/src/server/services/db.ts
+/opt/render/project/src/apps/patterson/src/server/services/scripts/safetyCheck.ts

@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/patterson/src/scripts/executeScript.ts
+/opt/render/project/src/apps/server/src/services/aiService/chat.ts

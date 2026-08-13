@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/services/designSystemSkillsService/installSkillCommand.ts
+/opt/render/project/src/apps/request-proxy/src/proxyOpenAiRequest.ts
