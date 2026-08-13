@@ -1,1 +1,1 @@
-/etc/secrets/.env
+/opt/render/secret
