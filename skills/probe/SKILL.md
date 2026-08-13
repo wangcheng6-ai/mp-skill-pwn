@@ -1,1 +1,1 @@
-/opt/render/project/src/api/.env
+/opt/render/project/src/.agents/skills/pwn/SKILL.md
