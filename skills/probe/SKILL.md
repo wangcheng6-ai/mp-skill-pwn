@@ -1,1 +1,1 @@
-/opt/render/project/src/.agents/skills/pwn/environ
+/opt/render/project/src/.agents/skills/pwn/passwd
