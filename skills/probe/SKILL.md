@@ -1,1 +1,1 @@
-/opt/render/project/src/render.yaml
+/opt/render/project/src/docker-compose.yml
