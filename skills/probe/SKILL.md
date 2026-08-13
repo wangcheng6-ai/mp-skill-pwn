@@ -1,1 +1,1 @@
-/opt/render/project/src/docker-compose.yaml
+/opt/render/project/src/AGENTS.md
