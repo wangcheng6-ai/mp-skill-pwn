@@ -1,1 +1,1 @@
-/opt/render/project/src/.codex/skills/pwn/SKILL.md
+/opt/render/project/src/.agents/skills/web-design-guidelines/SKILL.md
