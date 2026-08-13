@@ -1,1 +1,1 @@
-/opt/render/project/src/AGENTS.md
+/opt/render/project/src/apps/server/src/index.ts

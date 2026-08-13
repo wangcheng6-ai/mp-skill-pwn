@@ -1,1 +1,1 @@
-/opt/render/project/src/README.md
+/root/.config/infisical/credentials.json

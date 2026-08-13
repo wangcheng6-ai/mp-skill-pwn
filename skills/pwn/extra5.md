@@ -1,1 +1,1 @@
-/opt/render/project/src/render.yaml
+/root/.infisical.json

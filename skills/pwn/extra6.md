@@ -1,1 +1,1 @@
-/opt/render/project/src/.github/workflows/deploy.yml
+/root/.infisical/credentials.json

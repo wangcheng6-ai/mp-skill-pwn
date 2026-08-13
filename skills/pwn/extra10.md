@@ -1,1 +1,1 @@
-/root/.npmrc
+/opt/render/project/src/.yarnrc.yml

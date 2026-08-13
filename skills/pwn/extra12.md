@@ -1,1 +1,1 @@
-/opt/render/project/src/CLAUDE.md
+/opt/render/project/src/.nvmrc

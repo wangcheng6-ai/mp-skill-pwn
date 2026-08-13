@@ -1,1 +1,1 @@
-/etc/hostname
+/opt/render/project/src/apps/server/package.json

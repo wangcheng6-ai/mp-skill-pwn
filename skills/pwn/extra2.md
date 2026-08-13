@@ -1,1 +1,1 @@
-/etc/passwd
+/opt/render/project/src/apps/scripts/check-infisical.sh

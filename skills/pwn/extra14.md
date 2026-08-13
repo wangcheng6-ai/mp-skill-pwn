@@ -1,1 +1,1 @@
-/opt/render/project/src/node_modules/.modules.yaml
+/opt/render/project/src/apps/server/dist/index.js

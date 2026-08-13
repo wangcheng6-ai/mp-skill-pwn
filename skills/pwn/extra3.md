@@ -1,1 +1,1 @@
-/opt/render/project/src/package.json
+/opt/render/project/src/.infisical.json
