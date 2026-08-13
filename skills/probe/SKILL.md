@@ -1,1 +1,1 @@
-/opt/render/project/src/packages/server/package.json
+/opt/render/project/src/pnpm-workspace.yaml
