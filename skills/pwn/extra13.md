@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/src/services/aiService/chat.ts
+/opt/render/project/src/apps/server/src/services/aiService/provider.ts

@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/patterson/src/server/utils/auth/jwt.ts
+/opt/render/project/src/packages/schemas/src/schemas/integrationApiKey.schema.ts

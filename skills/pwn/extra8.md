@@ -1,1 +1,1 @@
-/opt/render/project/src/packages/schemas/src/index.ts
+/opt/render/project/src/apps/server/render.yaml
