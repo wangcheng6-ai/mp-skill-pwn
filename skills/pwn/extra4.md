@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/package.json
+/opt/render/project/src/apps/patterson/src/routes/scripts.ts

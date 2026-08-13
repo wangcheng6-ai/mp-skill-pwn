@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/scripts/with-stripe-webhook-secret.sh
+/opt/render/project/src/apps/server/src/middleware/requireAuth.ts

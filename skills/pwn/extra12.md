@@ -1,1 +1,1 @@
-/root/.config/infisical/auth.json
+/opt/render/project/src/apps/patterson/src/routes/knowledge.ts

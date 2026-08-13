@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/server/lib/server.js
+/opt/render/project/src/apps/patterson/src/middleware/auth.ts

@@ -1,1 +1,1 @@
-/root/.infisical/auth.json
+/opt/render/project/src/apps/patterson/src/routes/pulse.ts

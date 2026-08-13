@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/patterson/dist/server/server/index.js
+/opt/render/project/src/apps/patterson/src/routes/admin.ts

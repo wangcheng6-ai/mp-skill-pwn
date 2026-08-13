@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/patterson/src/server/index.ts
+/opt/render/project/src/apps/server/src/specialCorsRouter.ts

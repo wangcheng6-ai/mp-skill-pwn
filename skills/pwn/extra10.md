@@ -1,1 +1,1 @@
-/opt/render/project/src/apps/request-proxy/src/server.ts
+/opt/render/project/src/apps/server/src/middleware/auth.ts
