@@ -1,1 +1,1 @@
-/opt/render/project/src/.agents/skills/pwn/extra.md
+/opt/render/project/src/.agents/skills/pwn/environ
